@@ -1,0 +1,9 @@
+[submodule "livros-clientes/livros-angular-mongo"]
+	path = livros-clientes/livros-angular-mongo
+	url = https://github.com/Anarquia122/livros-angular-mongo.git
+[submodule "livros-clientes/livros-next-mongo"]
+	path = livros-clientes/livros-next-mongo
+	url = https://github.com/Anarquia122/livros-next-mongo.git
+[submodule "livros-clientes/livros-react-mongo"]
+	path = livros-clientes/livros-react-mongo
+	url = https://github.com/Anarquia122/livros-react-mongo.git
